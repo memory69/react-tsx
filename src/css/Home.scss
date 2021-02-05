@@ -1,0 +1,22 @@
+.ant-layout-sider-children{
+    // text-align: center;
+    .logo{
+        // width: 100px;
+        height: 50px;
+        margin: 0 auto;
+        text-align: center;
+        line-height: 50px;
+        font-size: 20px;
+        color: white;
+    }
+}
+.ant-layout-header{
+    background: white !important;
+   
+}
+.hide{
+    display: none;
+}
+.ant-layout:first-of-type{
+    font-size: 20px;
+}
